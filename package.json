@@ -31,7 +31,8 @@
     "soupselect": "",
     "underscore": "",
     "underscore.string": "",
-    "sandbox": ""
+    "sandbox": "",
+    "flip": ""
   },
   "engines": {
     "node": ">= 0.8.x",

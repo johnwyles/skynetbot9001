@@ -2,6 +2,7 @@
   "redis-brain.coffee",
   "shipit.coffee",
   "archer.coffee",
+  "flip.coffee",
   "bitcoin.coffee",
   "stock.coffee",
   "wheninaustin.coffee",
@@ -18,6 +19,5 @@
   "dealwithit.coffee",
   "eardropping.coffee",
   "facepalm.coffee",
-  "flip.coffee",
   "google.coffee"
 ]
