@@ -12,5 +12,12 @@
   "wikipedia.coffee",
   "lmgtfy.coffee",
   "javascript-sandbox.coffee",
-  "countdown.coffee"
+  "countdown.coffee",
+  "bitly.coffee",
+  "cheer.coffee",
+  "dealwithit.coffee",
+  "eardropping.coffee",
+  "facepalm.coffee",
+  "flip.coffee",
+  "google.coffee"
 ]
