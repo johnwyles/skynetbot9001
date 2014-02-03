@@ -25,7 +25,13 @@
     "hubot-hipchat": "~2.6.4",
     "scraper": "",
     "cheerio": "",
-    "jsdom": ""
+    "request": "",
+    "jsdom": "",
+    "htmlparser": "",
+    "soupselect": "",
+    "underscore": "",
+    "underscore.string": "",
+    "sandbox": ""
   },
   "engines": {
     "node": ">= 0.8.x",
