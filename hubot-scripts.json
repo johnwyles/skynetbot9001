@@ -1,1 +1,17 @@
-["redis-brain.coffee", "shipit.coffee", "archer.coffee", "bitcoin.coffee", "stock.coffee", "wheninaustin.coffee"]
+[
+  "redis-brain.coffee",
+  "shipit.coffee",
+  "archer.coffee",
+  "bitcoin.coffee",
+  "stock.coffee",
+  "wheninaustin.coffee",
+  "thanks-obama.coffee",
+  "reddit.coffee",
+  "reddit-random-top.coffee",
+  "xkcd.coffee",
+  "wikipedia.coffee",
+  "lmgtfy.coffee",
+  "javascript-sandbox.coffee",
+  "imdb.coffee",
+  "countdown.coffee"
+]
