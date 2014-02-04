@@ -4,6 +4,30 @@ This is the HipChat bot run by John Wyles.  It is mostly unmodified but can be r
 
 ### Install
 
+The best way to get this up and running is to install node, npm, and then the npm modules required.  The process should be close (as I recollect) to the following:
+
+Installing Node and NPM (MacOSX):
+
+    echo 'export PATH=$HOME/local/bin:$PATH' >> ~/.bashrc
+    . ~/.bashrc
+    mkdir ~/local
+    mkdir ~/node-latest-install
+    cd ~/node-latest-install
+    curl http://nodejs.org/dist/node-latest.tar.gz | tar xz --strip-components=1
+    ./configure --prefix=~/local
+    make install # ok, fine, this step probably takes more than 30 seconds...
+    curl https://npmjs.org/install.sh | sh
+
+Cloning the repository:
+
+    git clone https://github.com/johnwyles/skynetbot9001.git
+    cd skynetbot9001
+
+Installing the Node modules required by skynetbot9001:
+
+    npm install
+
+
 ### Running Locally
 
 The script `skynetbot9001.sh` should be able to be run.  This file sources two hidden files: `.hipchat_credentials` and `.bitly_credentials`.  For `.hipchat_credentials` you will need to set:
