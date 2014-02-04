@@ -1,6 +1,5 @@
 [
   "redis-brain.coffee",
-  "shipit.coffee",
   "archer.coffee",
   "flip.coffee",
   "bitcoin.coffee",
