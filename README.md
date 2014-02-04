@@ -46,9 +46,15 @@ Then you should be able to run the script as such:
 
 ### Scripts
 
-SkynetBot9001 also uses a fork of the [hubbot-scripts][hubot-scrits] repository in order to both come up with new
+SkynetBot9001 also uses a fork of the [hubot-scripts][hubot-scripts] repository in order to both come up with new
 plugins and contribute back to the community.  In order to get this working you will need to perform
 the following:
+
+    mkdir local_modules
+    cd local_modules
+    git clone https://github.com/johnwyles/hubot-scripts
+    cd ..
+    npm install ./local_modules/hubot-scripts
 
 [hubot-scripts]: https://github.com/johnwyles/hubot-scripts
 
