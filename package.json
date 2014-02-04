@@ -32,7 +32,9 @@
     "underscore": "",
     "underscore.string": "",
     "sandbox": "",
-    "flip": ""
+    "flip": "",
+    "bang": "",
+    "shellwords": ""
   },
   "engines": {
     "node": ">= 0.8.x",

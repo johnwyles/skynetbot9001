@@ -18,5 +18,6 @@
   "dealwithit.coffee",
   "eardropping.coffee",
   "facepalm.coffee",
-  "google.coffee"
+  "google.coffee",
+  "bang.coffee"
 ]
