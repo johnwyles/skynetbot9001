@@ -34,7 +34,9 @@
     "sandbox": "",
     "flip": "",
     "bang": "",
-    "shellwords": ""
+    "shellwords": "",
+    "xml2js": "",
+    "wolfram": ""
   },
   "engines": {
     "node": ">= 0.8.x",

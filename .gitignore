@@ -1,6 +1,7 @@
 local_modules
 node_modules
-local_modules
 .DS_Store*
-.hipchat_credentials
 .bitly_credentials
+.hipchat_credentials
+.wolfram_credentials
+.wunderground_credentials
