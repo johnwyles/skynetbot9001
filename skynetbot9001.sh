@@ -2,6 +2,8 @@
 
 source .hipchat_credentials
 source .bitly_credentials
-export HUBOT_AUTH_ADMIN="639510"
+source .wolfram_credentials
+source .wunderground_credentials
+export HUBOT_AUTH_ADMIN="639510" # <= john@johnwyles.com
 
 bin/hubot --adapter hipchat
