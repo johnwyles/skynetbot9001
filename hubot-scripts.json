@@ -29,10 +29,10 @@
   "reload.coffee",
   "remind.coffee",
   "sensitive.coffee",
-  "talkative.coffee",
   "tvshow.coffee",
   "urban.coffee",
   "walmart.coffee",
   "wolfram.coffee",
-  "wunderground.coffee"
+  "wunderground.coffee",
+  "quote_database.coffee"
 ]
