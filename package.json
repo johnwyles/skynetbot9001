@@ -21,9 +21,9 @@
   },
   "dependencies": {
     "hubot": ">= 2.6.0 < 3.0.0",
-    "hubot-scripts": ">= 2.5.0 < 3.0.0",
+    "hubot-scripts": "git://github.com/johnwyles/hubot-scripts.git",
     "hubot-hipchat": "~2.6.4",
-    "hubot-skype": "",
+    "hubot-skype": "git://github.com/johnwyles/hubot-skype.git",
     "scraper": "",
     "cheerio": "",
     "request": "",
